@@ -39,6 +39,7 @@ The Arduino Home Security System with SIM900A integrates multiple sensors like P
    - Monitors sound levels using the sound sensor.
    - Sends SMS alerts and activates LED/buzzer indicators for detected events.
 3. The system supports making calls to predefined numbers for critical events.
+You can open the individual sensor operations @ (`sound_motion.ino`), (`vibration_measurement.ino`), and (`height_measurement.ino`)
 
 ## Troubleshooting
 
